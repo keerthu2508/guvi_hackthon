@@ -1,0 +1,74 @@
+[
+  {
+    "id": 1,
+    "name": "Anuj Rao",
+    "age": 12,
+    "gender": "M",
+    "conditions": [
+      "Asthma"
+    ],
+    "lastSync": "2025-10-01",
+    "vitals": [
+      {
+        "time": "2025-10-01 08:00",
+        "hr": 88,
+        "spo2": 98,
+        "bp": "110/70"
+      }
+    ],
+    "meds": [
+      {
+        "name": "Salbutamol",
+        "time": "08:00",
+        "taken": false
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "name": "Meena K",
+    "age": 58,
+    "gender": "F",
+    "conditions": [
+      "Hypertension",
+      "Diabetes"
+    ],
+    "lastSync": "2025-09-30",
+    "vitals": [
+      {
+        "time": "2025-09-30 07:40",
+        "hr": 78,
+        "spo2": 96,
+        "bp": "150/95"
+      },
+      {
+        "time": "2025-10-02 10:15",
+        "hr": 82,
+        "spo2": 97,
+        "bp": "142/90"
+      }
+    ],
+    "meds": [
+      {
+        "name": "Amlodipine",
+        "time": "09:00",
+        "taken": true
+      },
+      {
+        "name": "Metformin",
+        "time": "20:00",
+        "taken": true
+      }
+    ]
+  },
+  {
+    "id": 1759692447469,
+    "name": "keerthana",
+    "age": 0,
+    "gender": "O",
+    "conditions": [],
+    "vitals": [],
+    "meds": [],
+    "lastSync": "2025-10-05"
+  }
+]
